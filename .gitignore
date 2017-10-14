@@ -1,6 +1,3 @@
 *
-
-!*.tex
 !*.pdf
-!*.bib
 !gitignore
